@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 👋 Hi, I’m Chris Hyunstead, a passionate backend developer.
+- 👋 Hi, I’m HyunSoo Jeong, a passionate backend developer.
 - 🎓 I graduated with a degree in Industrial Information Systems Engineering from Soongsil University.
 - 🌱 I’m currently learning more about Django,AWS and FastApi.
 - 💬 Ask me about anything related to backend development and data analysis.
